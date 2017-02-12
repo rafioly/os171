@@ -1,0 +1,3 @@
+Week 1 task taught me how to use text editor in terminal.
+This task also wanted me to create file and delete dummy files.
+It also thaught me how to move a file into certain directory and also how to directly input something created by a command line into a .txt account.
