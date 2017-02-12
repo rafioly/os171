@@ -20,3 +20,4 @@ drwxr-xr-x  2 rafiano.rizky StafCS 4096 Feb 12 15:55 week09
 drwxr-xr-x  2 rafiano.rizky StafCS 4096 Feb 12 15:55 week10
 drwxr-xr-x  2 rafiano.rizky StafCS 4096 Feb 12 15:55 xtra
 /home/fasilkom/mahasiswa/r/rafiano.rizky/os171/week01
+Today is 12 Feb 2017 at 16:25:18
