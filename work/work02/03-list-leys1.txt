@@ -1,6 +1,0 @@
-/home/rafioly/.gnupg/pubring.gpg
---------------------------------
-pub   4096R/4158115E 2017-02-22 [expires: 2017-08-21]
-uid                  Rafiano Rizky Rubiantoro (Studying OS is fun!) <rafiano.rizky@ui.ac.id>
-sub   4096R/A1CF169F 2017-02-22 [expires: 2017-08-21]
-
