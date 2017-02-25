@@ -1,0 +1,5 @@
+total 8
+drwxrwxrwx 2 root root    0 Feb 22 15:00 .
+drwxrwxrwx 2 root root    0 Feb 22 14:58 ..
+-rwxrwxrwx 1 root root 1558 Feb 21 11:36 00-toc.txt
+-rwxrwxrwx 1 root root 3107 Feb 21 11:36 01-public-osteam.txt
