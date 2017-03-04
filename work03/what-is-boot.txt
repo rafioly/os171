@@ -1,0 +1,13 @@
+Hello, this is the explanation about linux booting!
+
+Booting is a process that runs on startup to starts/loads the Operating System (OS)
+
+The process of booting is the initial set of operations that are executed when
+the computer is being switched on.
+
+The first thing to do is turning on the computer, then the CPU will jump to BIOS
+address (0xFFFF0). Then, BIOS itself will runs POST (Power-On Self Test). Then,
+it will find bootable devices. Then it will load and execute boot sector from MBR,
+Finally, it will load the OS.
+
+Source: Kaewjamnong, Sirak Linux Booting Procedure.
